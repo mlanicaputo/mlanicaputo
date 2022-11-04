@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics student at Colby College and skill collector!</h3>
 
-- 🌱 I’m currently learning **Applications of sorting algorithms**
+- 🌱 I’m currently learning **Web-app development with Flask**
 
-- 💬 Ask me about **Docker and Makefiles**
+- 💬 Ask me about **Docker**
 
 - 📫 How to reach me **mlanicaputo@gmail.com**
 
