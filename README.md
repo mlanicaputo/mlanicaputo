@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Web-app development with Flask**
 
+- 🔧 I'm working on **Peak Performance Athletics Dashboard**
+
 - 💬 Ask me about **Docker**
 
 - 📫 How to reach me **mlanicaputo@gmail.com**
