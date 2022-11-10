@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web-app development with Flask**
 
-- 🔧 I'm working on **Peak Performance Athletics Dashboard**
+- 🔧 I'm working on [**Peak Performance Athletics Dashboard**](https://github.com/mlanicaputo/peakperformanceathletics)
 
 - 💬 Ask me about **Docker**
 
