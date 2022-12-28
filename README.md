@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics student at Colby College and skill collector!</h3>
 
-- 🌱 I’m currently learning **Web-app development with Flask**
+- 🌱 I’m currently learning **Arduino!!!!!**
 
-- 🔧 I'm working on [**Peak Performance Athletics Dashboard**](https://github.com/mlanicaputo/peakperformanceathletics)
+- 🔧 I'm working on [**Refactoring the Colby College Computer Science website**](https://cs.colby.edu/)
 
-- 💬 Ask me about **Docker**
+- 💬 Ask me about **Iterative algorithmic analysis**
 
 - 📫 How to reach me **mlanicaputo@gmail.com**
 
