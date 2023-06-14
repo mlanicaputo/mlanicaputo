@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics student at Colby College and skill collector!</h3>
 
-- 🌱 I’m currently learning **Arduino!!!!!**
+- 🌱 I’m currently learning **How to repair bicycles**.
 
-- 🔧 I'm working on [**Refactoring the Colby College Computer Science website**](https://cs.colby.edu/)
+- 🔧 I'm working on [**Namesake**]([https://cs.colby.edu/](https://github.com/nalmadi/Namesake))
 
 - 💬 Ask me about **Iterative algorithmic analysis**
 
