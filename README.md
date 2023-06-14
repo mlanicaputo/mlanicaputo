@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **How to repair bicycles**.
 
-- 🔧 I'm working on [**Namesake**]([https://cs.colby.edu/](https://github.com/nalmadi/Namesake))
+- 🔧 I'm working on [**Namesake**](https://github.com/nalmadi/Namesake)
 
 - 💬 Ask me about **Iterative algorithmic analysis**
 
