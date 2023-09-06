@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
-<h3 align="center">A CS and physics student at Colby College and skill collector!</h3>
+<h3 align="center">A CS and physics graduate and skill collector!</h3>
 
 - 🌱 I’m currently learning **How to repair bicycles**.
 
