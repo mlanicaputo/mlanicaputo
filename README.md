@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics graduate and skill collector!</h3>
 
-- 🌱 I’m currently learning **How to repair bicycles**.
+- 🌱 I’m currently learning **Spring Boot**.
 
 - 🔧 I'm working on [**Namesake**](https://github.com/nalmadi/Namesake)
 
