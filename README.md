@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics graduate and skill collector!</h3>
 
-## Take a look at my data projects:
+## DATA PROJECTS:
 
 - ### [Social media sentiment analysis of Ukraine war tweets](https://github.com/mlanicaputo/twitter-trends-ukraine)
 
