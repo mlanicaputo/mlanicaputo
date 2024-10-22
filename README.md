@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics graduate and skill collector!</h3>
 
-- 🌱 I’m currently learning **Spring Boot**.
+Take a look at my data projects:
 
-- 🔧 I'm working on [**Namesake**](https://github.com/nalmadi/Namesake)
+- [Social media sentiment analysis of Ukraine war tweets](https://github.com/mlanicaputo/twitter-trends-ukraine)
 
-- 💬 Ask me about **Iterative algorithmic analysis**
-
-- 📫 How to reach me **mlanicaputo@gmail.com**
+- [Tweet author classifier neural net](https://github.com/mlanicaputo/guessthetweeter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
