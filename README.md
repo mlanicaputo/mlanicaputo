@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A CS and physics graduate and skill collector!</h3>
 
-Take a look at my data projects:
+## Take a look at my data projects:
 
-- [Social media sentiment analysis of Ukraine war tweets](https://github.com/mlanicaputo/twitter-trends-ukraine)
+- ### [Social media sentiment analysis of Ukraine war tweets](https://github.com/mlanicaputo/twitter-trends-ukraine)
 
-- [Tweet author classifier neural net](https://github.com/mlanicaputo/guessthetweeter)
+- ### [Analysis of NYC traffic collisions and recommendations for improvements](https://github.com/mlanicaputo/nyc-collisions)
+
+- ### [Tweet author classifier neural net](https://github.com/mlanicaputo/guessthetweeter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
