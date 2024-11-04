@@ -5,7 +5,8 @@
 
 - ### [Social media sentiment analysis of Ukraine war tweets](https://github.com/mlanicaputo/twitter-trends-ukraine)
 
-- ### [Analysis of NYC traffic collisions and recommendations for improvements](https://github.com/mlanicaputo/nyc-collisions) [Tableau dashboard](https://public.tableau.com/app/profile/milo.lani.caputo/viz/nyc-collisions/Dashboard1?publish=yes)
+- ### [Analysis of NYC traffic collisions and recommendations for improvements](https://github.com/mlanicaputo/nyc-collisions)
+  - #### [Tableau dashboard](https://public.tableau.com/app/profile/milo.lani.caputo/viz/nyc-collisions/Dashboard1?publish=yes)
 
 - ### [Tweet author classifier neural net](https://github.com/mlanicaputo/guessthetweeter)
 
